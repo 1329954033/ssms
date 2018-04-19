@@ -7,7 +7,7 @@ public class JdbcClass {
 	//驱动，URL，用户名，密码
     private static final String driver = "oracle.jdbc.driver.OracleDriver";
     private static final String url = "jdbc:oracle:thin:@localhost:1521:ORCL";
-    private static final String username = "cauxgh";
+    private static final String username = "c##CAU";
     private static final String password = "123456";
  
     public static Connection getConnection() {
